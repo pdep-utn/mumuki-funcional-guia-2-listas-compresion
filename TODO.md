@@ -14,17 +14,7 @@ sublista de l de los menores a n. Más fácil con un ejemplo: se espera que:
 Main> menoresA 20 [23,5,16,38,11,24]
 [5,16,11]
 Nota: Utilizar listas por comprensión.
-4.4. Definir la función diferencia/2, dadas dos listas devuelve la sublista de la primera cuyos
-elementos no están en la segunda. P.ej.
-Main> diferencia [1..6] [2..4]
-[1,5,6]
-Ayuda: con listas por comprensión sale fácil.
-Práctica nro 2. Funciones de Orden Superior y manejo de listas – versión 1.4
-10PdeP
-Paradigma Funcional
-4.5. Definir intersección que dadas dos listas me devuelve la lista de los elementos que están en
-las dos.
-Nota: Utilizar Listas por Comprensión.
+
 4.6. Retomando el ejercicio 3.17. (de Ingresos y Egresos de esta guía), se pide definir las
 funciones:
 4.6.1. resultados, que dadas las listas de ingresos y egresos devuelve la lista de los resultados de
