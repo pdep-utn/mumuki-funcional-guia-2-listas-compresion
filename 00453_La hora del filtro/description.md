@@ -16,3 +16,5 @@ Los filtros se escribren separados por comas. Puede haber tantos filtros como qu
 >
 > * `nombreDePersonaje` 
 > * `temporadasEnQueEstaVivo`, que una lista de numeros de temporada
+> 
+> Y no te olvides de delegar
