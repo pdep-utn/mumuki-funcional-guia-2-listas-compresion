@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: casasDePersonajes
+  inspection: HasBinding
+- binding: casaDePersonaje
+  inspection: Not:HasBinding
+- binding: casasDePersonajes
+  inspection: HasComprehension

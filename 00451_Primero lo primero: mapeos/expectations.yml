@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: poderesDeSupeheroes
   inspection: HasComprehension
+- binding: ''
+  inspection: ''
