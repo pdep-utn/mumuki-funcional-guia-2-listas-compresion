@@ -1,4 +1,4 @@
-Ahora ya sabés que son las listas por comprensión y para que se usan. 
+Ahora ya sabés qué son las listas por comprensión y para que se usan. 
 
 En general son un chiche sintáctico: lo mismo podías expresar con lo que ya sabías sin perder _declaratividad_.
 
