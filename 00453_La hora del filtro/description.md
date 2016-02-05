@@ -15,4 +15,4 @@ Los filtros se escribren separados por comas. Puede haber tantos filtros como qu
 > Asumí que contamos con
 >
 > * `nombreDePersonaje` 
-> * `estaVivoEn`, que toma una temporada y un personaje
+> * `temporadasEnQueEstaVivo`, que una lista de numeros de temporada

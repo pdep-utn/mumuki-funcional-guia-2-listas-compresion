@@ -6,3 +6,5 @@ expectations:
   inspection: Not:HasBinding
 - binding: casasDePersonajes
   inspection: HasComprehension
+- binding: ''
+  inspection: ''
