@@ -1,3 +1,10 @@
-name: 'Práctica Listas Por Comprensión'
+---
+name: Listas Por Comprensión
 locale: es
+type: practice
+beta: false
 language: haskell
+id_format: '%05d'
+order:
+- 440
+- 450

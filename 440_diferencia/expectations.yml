@@ -1,5 +1,0 @@
-expectations:
- - binding: diferencia
-   inspection: HasBinding
- - binding: diferencia
-   inspection: HasComprehension
