@@ -4,5 +4,3 @@ expectations:
   inspection: HasComprehension
 - binding: intersect
   inspection: HasBinding
-- binding: ''
-  inspection: ''

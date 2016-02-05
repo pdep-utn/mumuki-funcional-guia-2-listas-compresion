@@ -3,6 +3,6 @@ Uno más: definí `intersect` , que dada 2 listas de elemento devuelve los eleme
 Ejemplo:
 
 ```haskell
-> inersect [1, 2, 3, 9] [4, 1, 3, 6]
+> intersect [1, 2, 3, 9] [4, 1, 3, 6]
 [1, 3]
 ```
