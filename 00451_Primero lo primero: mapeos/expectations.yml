@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: poderesDeSupeheroes
+  inspection: HasBinding
+- binding: poderesDeSupeheroes
+  inspection: HasComprehension
