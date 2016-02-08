@@ -18,5 +18,5 @@ Como ves, hicimos varias cosas:
 > Veamos si se entiende hasta acá: sin pensarlo mucho, convertí la siguiente función definida con map a una que use una lista por comprensión:
 >
 > ```haskell
-> poderesDeSupeheroes = map poderDeSuperheroe
+> poderesDeSuperheroes = map poderDeSuperheroe
 > ```

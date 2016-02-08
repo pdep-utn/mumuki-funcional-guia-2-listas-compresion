@@ -1,2 +1,2 @@
 it "fueConvertidaExitosmente" $ do 
-   poderesDeSupeheroesOriginal  algunosSuperheroesNoCopados `shouldBe`  poderesDeSupeheroes  algunosSuperheroesNoCopados
+   poderesDeSuperheroesOriginal  algunosSuperheroesNoCopados `shouldBe`  poderesDeSuperheroes  algunosSuperheroesNoCopados

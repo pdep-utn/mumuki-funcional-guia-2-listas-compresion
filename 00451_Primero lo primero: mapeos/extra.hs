@@ -1,3 +1,3 @@
-poderesDeSupeheroesOriginal = map poderDeSuperheroe
+poderesDeSuperheroesOriginal = map poderDeSuperheroe
 poderDeSuperheroe = snd
 algunosSuperheroesNoCopados = [ ("", "foo"),  ("", "bar"),  ("", "baz") ]
