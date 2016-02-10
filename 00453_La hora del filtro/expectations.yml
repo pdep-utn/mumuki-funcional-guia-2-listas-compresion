@@ -2,5 +2,3 @@
 expectations:
 - binding: nombresDePersonajesVivosEn
   inspection: HasComprehension
-- binding: ''
-  inspection: ''
