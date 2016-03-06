@@ -2,5 +2,3 @@
 expectations:
 - binding: sumaCartesiana
   inspection: HasComprehension
-- binding: ''
-  inspection: ''
