@@ -1,4 +1,4 @@
-Arranquemos por lo fácil... cómo escribir un mapeo con esta nueva y misteriosa sintaxis de la que te venímos hablando. 
+Arranquemos por lo fácil: cómo escribir un mapeo con esta nueva y misteriosa sintaxis de la que te venímos hablando. 
 
 
 ```haskell
