@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: intersect
+- binding: intersectar
   inspection: HasComprehension
-- binding: intersect
+- binding: intersectar
   inspection: HasBinding
